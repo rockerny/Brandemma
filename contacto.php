@@ -1,5 +1,5 @@
 <?php
-//Variables del formulario de contacto
+//Variables del formulario de contacto  AMET
 
 @$nombre = addslashes($_POST['TName']);
 @$email = addslashes($_POST['TEmail']);
